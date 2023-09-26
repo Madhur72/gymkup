@@ -1,0 +1,7 @@
+*{
+  margin: 0;
+  box-sizing: border-box;
+}
+.app-container{
+  background: linear-gradient(109.6deg, rgb(0, 0, 0) 11.2%, rgb(2, 40, 15) 91.1%);;
+}
